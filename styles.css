@@ -1,0 +1,151 @@
+h1{
+    font-size: 35px;
+    position: absolute;
+    left: 50px;
+    color: #444;
+}
+.point{
+    color: orange;
+}
+ nav .utr{
+    font-size: 17px;
+    position: absolute;
+    top: 30px;
+    left: 650px;
+    font-weight: bold;
+   
+}
+ a{
+    text-decoration: none;
+    color: #444;
+    margin-right: 20px;
+}
+a:hover{
+    color: blue;
+}
+div3{
+    position: absolute; 
+    top: 100px; 
+}
+div4{
+    position: absolute;
+    top:650px ;
+    left: 308px;
+}
+h2{
+    font: size 20px; ;
+    position: absolute;
+    top:760px;
+    left: 305px;
+}
+p1{
+    font-size: 18px;
+    position: absolute;
+    top: 840px;
+    left: 230px;
+    text-align: center;
+}
+div5{
+    position: absolute;
+    top: 650px;
+    left: 675px;
+}
+h3{
+    font-size: 25px;
+    position: absolute;
+    top: 760px;
+    left: 670px;
+}
+p2{
+    font-size: 18px;
+    position: absolute;
+    top: 840px;
+    left: 600px;
+    text-align: center;
+}
+
+div6{
+    position: absolute;
+    top: 650px;
+    left: 1080px;
+}
+h4{
+    font-size: 25px;
+    position: absolute;
+    top: 760px;
+    left: 1080px;
+}
+p3{
+    font-size: 18px;
+    position: absolute;
+    top: 840px;
+    left: 1000px;
+    text-align: center;
+}
+p4{
+    position: absolute;
+    top: 1000px;
+    background-color: darkgray;
+    font-size: 30px;
+    border: 1px solid black;
+}
+h5{
+    font-size: 50px;
+    position: absolute;
+    top: 155px;
+    left: 480px;
+    font-family: fantasy;
+}
+h6{
+    font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 195px;
+    left: 420px;
+}
+div7{
+
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 375px;
+    left: 650px;
+    height: 25px;
+    width: 60px;
+    background-color: orangered;
+}
+div7 a{
+    margin: 0 auto;
+    top: 5px;
+    color: rgb(252, 252, 170);
+}
+div8{
+position: absolute;
+top: 950px;
+height: 190px;
+width: 1350px;
+background-color: rgb(238, 232, 232);
+}
+div9{
+    position: absolute;
+    top: 1300px;
+    left: 600px;
+}
+h7{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 12px;
+    left: 150px;
+    color: #444;
+    background-color:white ;
+}
+p{
+    text-align: center;
+    position: absolute;
+    top: 35px;
+    left: 164px;
+    color: #444;
+    background-color:white ;
+}
